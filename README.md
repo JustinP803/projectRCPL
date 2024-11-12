@@ -1,3 +1,5 @@
 # projectRCPL
-This is fucking terrible!  I do not know how to use this tool, this program, or this fucking computer.  Fuck!!!!!
+This project began as an application for the data science role with the Richland County Public Library.  
+
+I did not land the role.
 Project
